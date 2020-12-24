@@ -1,0 +1,5 @@
+# multi_person_mobilenet_v1_075_float.tflite   output is strange, backwd displacements's size is different from front
+
+#posenet_mv1_075_float_from_checkpoints.tflite:
+
+output is good, but poseprocess reuslt is zero; 
